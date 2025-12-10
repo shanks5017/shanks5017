@@ -40,7 +40,7 @@
 
 ```yaml
 name: Shashank M Tareehal
-located_in: Coimbatore, India
+located_in: Belgaum , India
 education: Computer Science & Engineering @ KIT-Coimbatore (2023-2027)
 current_focus: ["AI Automation", "LLM Integration", "Full-Stack Development"]
 interests: ["Generative AI", "Prompt Engineering", "Intelligent Systems"]
